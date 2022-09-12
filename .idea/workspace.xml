@@ -1,11 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d11aeb92-1778-45f2-b86a-ef436347cbc7" name="Changes" comment="" />
+    <list default="true" id="d11aeb92-1778-45f2-b86a-ef436347cbc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bottom.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/facebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/instagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twitter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontawesome-all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_actions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_features.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_features.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_mini-posts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_mini-posts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_posts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_posts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/layout/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/layout/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/layout/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/libs/_html-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets copy/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -19,10 +98,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/GitHub/front2"
+    "last_opened_file_path": "C:/GitHub/front2 -2/images"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\front2 -2\images" />
+      <recent name="C:\GitHub\front2 -2\assets" />
+      <recent name="C:\GitHub\front2 -2\css" />
+      <recent name="C:\GitHub\front2 -2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\front2 -2\images" />
+      <recent name="C:\GitHub\front2 -2\assets" />
+      <recent name="C:\GitHub\front2 -2" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="front2" />
@@ -56,11 +149,23 @@
       <option name="presentableId" value="Default" />
       <updated>1660108476148</updated>
       <workItem from="1660108477481" duration="21000" />
+      <workItem from="1662900791602" duration="14760000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
